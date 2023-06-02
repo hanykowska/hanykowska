@@ -1,6 +1,8 @@
 👋 Hi, I’m @hanykowska
 <!-- - 👀 I’m interested in ... -->
-🌱 I’m currently learning python
+🌱 I’m currently working on my python, SQL and data engineering / modeling skills
+
+Soon to pick up refreshing my hanykowska.com website and to get back to writing blog posts 🦙
 <!-- - 💞️ I’m looking to collaborate on python projects -->
 <!-- - 📫 How to reach me ... -->
 
